@@ -8,7 +8,7 @@ const FOUR = 'img/4.svg'
 const FIVE = 'img/5.svg'
 const SIX = 'img/6.svg'
 const EMPTY = ' '
-
+//////
 var gBoard = { 
  minesAroundCount: 4, 
  isRevealed: false, 
