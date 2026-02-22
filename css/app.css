@@ -38,6 +38,8 @@ td {
       padding: 0;         
     }
 
-.mark {
-    background-color: rgb(255, 215, 238);;
+.revealed {
+    background-color: #fdf0f3;;
 }
+
+
